@@ -2,6 +2,7 @@
 
 ## Prenez en main votre formation de développeur web :
 
+![maquette powerpoint pdf](./source/md-picture/mdpix.png)
 
 Livrables :
 
