@@ -4,7 +4,7 @@
 
 ![maquette powerpoint pdf](./src/md-picture/mdpix.png)
 
-Livrables :
+### Livrables :
 
 - P1_01_planningFormation.pdf
 - P1_02_(EN COURS)
