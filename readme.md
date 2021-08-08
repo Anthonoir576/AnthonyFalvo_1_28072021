@@ -1,4 +1,6 @@
-# OpenClassrooms P1 - Prenez en main votre formation de développeur web
+# OpenClassrooms Projet 01 
+
+## Prenez en main votre formation de développeur web :
 
 Projet 01 de la formation de développeur web de chez OpenClassrooms. 
 
