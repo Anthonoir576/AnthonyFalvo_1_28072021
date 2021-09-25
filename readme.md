@@ -7,7 +7,7 @@
 ### Livrables :
 
 - P1_01_planningFormation.pdf
-- P1_02_(EN COURS)
+- P1_02_workPlace.pdf
 - P1_03_linkNetworks.pdf
 
 
